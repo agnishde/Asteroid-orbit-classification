@@ -56,7 +56,7 @@ Project done in accordance with fulfilling criteria for degree under Maulana Abu
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/agnishde/asteroid-classification.git
+   git clone https://github.com/agnishde/Asteroid-orbit-classification.git
 
 2. **Navigate to the Project Directory:**
 
